@@ -1,0 +1,1507 @@
+{
+    "model": "shop_final.book",
+    "pk": 1,
+    "fields": {
+        "title": "Собачье сердце",
+        "year": 1914,
+        "pages": 547,
+        "isbn13": "978-1-943259-19-9",
+        "rating": 3.92,
+        "price": 48743.68,
+        "author": [
+            "Timothy Burns"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 2,
+    "fields": {
+        "title": "Граф Монте-Кристо",
+        "year": 1930,
+        "pages": 1381,
+        "isbn13": "978-0-242-71770-6",
+        "rating": 0.86,
+        "price": 40223.48,
+        "author": [
+            "Gabriel Harris"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 3,
+    "fields": {
+        "title": "Война и мир",
+        "year": 2005,
+        "pages": 1657,
+        "isbn13": "978-0-7848-5723-6",
+        "rating": 4.64,
+        "price": 90149.74,
+        "author": [
+            "Pamela Russell",
+            "Kimberly Jackson",
+            "Kelly Everett"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 4,
+    "fields": {
+        "title": "Собачье сердце",
+        "year": 1976,
+        "pages": 898,
+        "isbn13": "978-1-4439-2729-1",
+        "rating": 1.59,
+        "price": 76657.24,
+        "author": [
+            "Dr. Heather Taylor"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 5,
+    "fields": {
+        "title": "Мастер и Маргарита",
+        "year": 2002,
+        "pages": 460,
+        "isbn13": "978-0-927949-57-6",
+        "rating": 2.42,
+        "price": 57783.0,
+        "author": [
+            "Tammy Lee",
+            "Richard Ford"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 6,
+    "fields": {
+        "title": "Граф Монте-Кристо",
+        "year": 1969,
+        "pages": 1856,
+        "isbn13": "978-1-210-45204-9",
+        "rating": 2.21,
+        "price": 14791.4,
+        "author": [
+            "Crystal Green",
+            "Cynthia Phillips"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 7,
+    "fields": {
+        "title": "Двенадцать стульев",
+        "year": 2003,
+        "pages": 1634,
+        "isbn13": "978-0-244-20975-9",
+        "rating": 4.28,
+        "price": 2429.73,
+        "author": [
+            "Tanya Glover",
+            "Michael Wheeler"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 8,
+    "fields": {
+        "title": "Война и мир",
+        "year": 1989,
+        "pages": 74,
+        "isbn13": "978-0-00-067268-1",
+        "rating": 0.23,
+        "price": 90226.36,
+        "author": [
+            "Amanda Ayala",
+            "Jennifer Baker",
+            "John Williams"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 9,
+    "fields": {
+        "title": "Граф Монте-Кристо",
+        "year": 2000,
+        "pages": 1918,
+        "isbn13": "978-0-8089-4743-1",
+        "rating": 4.02,
+        "price": 3231.34,
+        "author": [
+            "Matthew Moore",
+            "Amanda Reed",
+            "Dakota Norton"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 10,
+    "fields": {
+        "title": "Мастер и Маргарита",
+        "year": 1900,
+        "pages": 1095,
+        "isbn13": "978-0-596-76815-7",
+        "rating": 0.61,
+        "price": 14407.91,
+        "author": [
+            "Amanda Strickland",
+            "Donna Brown",
+            "Amber Wilson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 11,
+    "fields": {
+        "title": "Преступление и наказание",
+        "year": 1971,
+        "pages": 1907,
+        "isbn13": "978-1-5291-0049-5",
+        "rating": 3.96,
+        "price": 39758.84,
+        "author": [
+            "Brett Perez",
+            "Thomas Jones"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 12,
+    "fields": {
+        "title": "Отверженные",
+        "year": 2012,
+        "pages": 1359,
+        "isbn13": "978-1-996902-69-1",
+        "rating": 3.73,
+        "price": 46817.26,
+        "author": [
+            "Paula Taylor",
+            "Kevin Gross",
+            "Joshua Pierce"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 13,
+    "fields": {
+        "title": "Мастер и Маргарита",
+        "year": 1917,
+        "pages": 1363,
+        "isbn13": "978-0-584-23490-9",
+        "rating": 4.63,
+        "price": 9790.7,
+        "author": [
+            "Gerald Church",
+            "Barbara Hanson",
+            "Ricky Lowe"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 14,
+    "fields": {
+        "title": "Три товарища",
+        "year": 1973,
+        "pages": 1066,
+        "isbn13": "978-1-367-91111-6",
+        "rating": 4.47,
+        "price": 67704.17,
+        "author": [
+            "Dr. Tammy Maldonado"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 15,
+    "fields": {
+        "title": "Граф Монте-Кристо",
+        "year": 1958,
+        "pages": 561,
+        "isbn13": "978-1-253-32884-4",
+        "rating": 3.33,
+        "price": 66463.92,
+        "author": [
+            "Lauren Beck",
+            "John Hall",
+            "Taylor Gillespie"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 16,
+    "fields": {
+        "title": "Три товарища",
+        "year": 1907,
+        "pages": 1006,
+        "isbn13": "978-0-7445-1142-0",
+        "rating": 2.14,
+        "price": 94298.22,
+        "author": [
+            "Michael Mccarthy",
+            "Jessica Gallagher",
+            "Mrs. Jamie Powell"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 17,
+    "fields": {
+        "title": "Преступление и наказание",
+        "year": 1971,
+        "pages": 772,
+        "isbn13": "978-1-63514-562-5",
+        "rating": 1.46,
+        "price": 56398.79,
+        "author": [
+            "Anthony Perez",
+            "Theresa Figueroa",
+            "Jessica Washington"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 18,
+    "fields": {
+        "title": "Мёртвые души",
+        "year": 1914,
+        "pages": 1438,
+        "isbn13": "978-1-65446-790-6",
+        "rating": 0.82,
+        "price": 82333.41,
+        "author": [
+            "Mark Bird",
+            "Lisa Smith",
+            "Edward Martinez"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 19,
+    "fields": {
+        "title": "Преступление и наказание",
+        "year": 1928,
+        "pages": 1004,
+        "isbn13": "978-1-917488-39-6",
+        "rating": 2.87,
+        "price": 67920.41,
+        "author": [
+            "Michael Brennan"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 20,
+    "fields": {
+        "title": "Мастер и Маргарита",
+        "year": 1991,
+        "pages": 1203,
+        "isbn13": "978-0-8424-7121-3",
+        "rating": 2.75,
+        "price": 69748.14,
+        "author": [
+            "Jessica Clark"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 21,
+    "fields": {
+        "title": "Собачье сердце",
+        "year": 2020,
+        "pages": 1495,
+        "isbn13": "978-1-153-53220-4",
+        "rating": 1.12,
+        "price": 2006.12,
+        "author": [
+            "Charles Blackwell"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 22,
+    "fields": {
+        "title": "Собачье сердце",
+        "year": 1928,
+        "pages": 1594,
+        "isbn13": "978-0-441-58019-4",
+        "rating": 2.93,
+        "price": 85479.26,
+        "author": [
+            "Tanya Johnson",
+            "Benjamin Edwards"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 23,
+    "fields": {
+        "title": "Граф Монте-Кристо",
+        "year": 1950,
+        "pages": 667,
+        "isbn13": "978-1-332-54918-4",
+        "rating": 0.77,
+        "price": 83866.62,
+        "author": [
+            "Victor Porter",
+            "Troy Gray"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 24,
+    "fields": {
+        "title": "Граф Монте-Кристо",
+        "year": 1953,
+        "pages": 494,
+        "isbn13": "978-0-490-57673-5",
+        "rating": 1.24,
+        "price": 37879.26,
+        "author": [
+            "Edwin Ellison",
+            "Sarah Osborne",
+            "Kayla Parker"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 25,
+    "fields": {
+        "title": "Отверженные",
+        "year": 1924,
+        "pages": 1419,
+        "isbn13": "978-0-85400-937-4",
+        "rating": 0.25,
+        "price": 14754.49,
+        "author": [
+            "Danielle Garcia"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 26,
+    "fields": {
+        "title": "Двенадцать стульев",
+        "year": 1994,
+        "pages": 747,
+        "isbn13": "978-1-69230-315-0",
+        "rating": 2.45,
+        "price": 77023.97,
+        "author": [
+            "Holly Lucero"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 27,
+    "fields": {
+        "title": "Мёртвые души",
+        "year": 1939,
+        "pages": 151,
+        "isbn13": "978-1-00-128768-3",
+        "rating": 4.36,
+        "price": 80673.44,
+        "author": [
+            "Casey Fields",
+            "Jackie Smith",
+            "Lisa White"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 28,
+    "fields": {
+        "title": "Преступление и наказание",
+        "year": 1971,
+        "pages": 1273,
+        "isbn13": "978-0-696-73138-9",
+        "rating": 3.62,
+        "price": 3792.34,
+        "author": [
+            "Christina Hurley",
+            "Christina Valdez",
+            "Christopher Wilcox"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 29,
+    "fields": {
+        "title": "Война и мир",
+        "year": 1958,
+        "pages": 470,
+        "isbn13": "978-0-543-56096-4",
+        "rating": 2.02,
+        "price": 14842.25,
+        "author": [
+            "William Davidson",
+            "Timothy Curry",
+            "Bradley Fernandez"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 30,
+    "fields": {
+        "title": "Мастер и Маргарита",
+        "year": 1964,
+        "pages": 1310,
+        "isbn13": "978-0-7364-7096-4",
+        "rating": 0.76,
+        "price": 43825.63,
+        "author": [
+            "Logan Gallegos",
+            "Sandy Cook"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 31,
+    "fields": {
+        "title": "Мастер и Маргарита",
+        "year": 1991,
+        "pages": 1787,
+        "isbn13": "978-0-527-05406-9",
+        "rating": 3.76,
+        "price": 78620.91,
+        "author": [
+            "Stephanie Hamilton"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 32,
+    "fields": {
+        "title": "Граф Монте-Кристо",
+        "year": 1932,
+        "pages": 583,
+        "isbn13": "978-1-9862-1124-6",
+        "rating": 4.57,
+        "price": 29976.29,
+        "author": [
+            "Michael Thompson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 33,
+    "fields": {
+        "title": "Три товарища",
+        "year": 1964,
+        "pages": 555,
+        "isbn13": "978-0-392-91019-4",
+        "rating": 4.91,
+        "price": 27908.34,
+        "author": [
+            "Edwin Horton",
+            "Nancy Lawrence"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 34,
+    "fields": {
+        "title": "Золотой теленок",
+        "year": 2006,
+        "pages": 248,
+        "isbn13": "978-0-944022-42-9",
+        "rating": 0.3,
+        "price": 46131.59,
+        "author": [
+            "James Kent",
+            "Sue King"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 35,
+    "fields": {
+        "title": "Мастер и Маргарита",
+        "year": 1921,
+        "pages": 693,
+        "isbn13": "978-0-312-56217-5",
+        "rating": 4.63,
+        "price": 67759.81,
+        "author": [
+            "Joseph Hahn PhD",
+            "Holly Logan",
+            "Melissa Johnson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 36,
+    "fields": {
+        "title": "Мёртвые души",
+        "year": 1975,
+        "pages": 181,
+        "isbn13": "978-0-86110-559-5",
+        "rating": 0.68,
+        "price": 37796.69,
+        "author": [
+            "Randall Keith",
+            "Rachel Ware"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 37,
+    "fields": {
+        "title": "Граф Монте-Кристо",
+        "year": 1991,
+        "pages": 942,
+        "isbn13": "978-1-262-60156-3",
+        "rating": 1.15,
+        "price": 47044.02,
+        "author": [
+            "Jeffrey Church",
+            "Dr. Raymond Sanchez Jr."
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 38,
+    "fields": {
+        "title": "Преступление и наказание",
+        "year": 2009,
+        "pages": 1502,
+        "isbn13": "978-1-09-702271-7",
+        "rating": 0.5,
+        "price": 46675.37,
+        "author": [
+            "Wendy Oliver",
+            "Rita Anderson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 39,
+    "fields": {
+        "title": "Граф Монте-Кристо",
+        "year": 1930,
+        "pages": 222,
+        "isbn13": "978-0-8176-7246-1",
+        "rating": 0.23,
+        "price": 63445.83,
+        "author": [
+            "April Kelly",
+            "Cole Palmer"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 40,
+    "fields": {
+        "title": "Мастер и Маргарита",
+        "year": 1931,
+        "pages": 1981,
+        "isbn13": "978-1-76634-364-8",
+        "rating": 0.12,
+        "price": 88719.38,
+        "author": [
+            "Todd Martinez",
+            "Austin Burns",
+            "Shawn Hancock"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 41,
+    "fields": {
+        "title": "Золотой теленок",
+        "year": 1942,
+        "pages": 1721,
+        "isbn13": "978-1-261-90793-2",
+        "rating": 4.1,
+        "price": 87285.41,
+        "author": [
+            "Katherine Butler",
+            "Michael Ross"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 42,
+    "fields": {
+        "title": "Отверженные",
+        "year": 1951,
+        "pages": 1831,
+        "isbn13": "978-1-199-82177-5",
+        "rating": 3.57,
+        "price": 47314.86,
+        "author": [
+            "Brandon Smith",
+            "William Hansen",
+            "Thomas Hoffman"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 43,
+    "fields": {
+        "title": "Преступление и наказание",
+        "year": 1954,
+        "pages": 1448,
+        "isbn13": "978-0-01-366028-6",
+        "rating": 2.7,
+        "price": 20258.53,
+        "author": [
+            "Rodney Reed",
+            "Kathy Johnson",
+            "Jennifer Key MD"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 44,
+    "fields": {
+        "title": "Мёртвые души",
+        "year": 1965,
+        "pages": 339,
+        "isbn13": "978-0-315-76123-0",
+        "rating": 0.15,
+        "price": 35439.74,
+        "author": [
+            "Jesse Weiss",
+            "Andrea Jordan"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 45,
+    "fields": {
+        "title": "Отверженные",
+        "year": 2013,
+        "pages": 1518,
+        "isbn13": "978-1-75270-093-6",
+        "rating": 0.85,
+        "price": 13797.35,
+        "author": [
+            "Anthony Young",
+            "Grant Walker"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 46,
+    "fields": {
+        "title": "Преступление и наказание",
+        "year": 2010,
+        "pages": 678,
+        "isbn13": "978-1-4238-8283-1",
+        "rating": 0.28,
+        "price": 88407.69,
+        "author": [
+            "Amber Hernandez"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 47,
+    "fields": {
+        "title": "Отверженные",
+        "year": 1957,
+        "pages": 889,
+        "isbn13": "978-1-143-59518-9",
+        "rating": 2.54,
+        "price": 84579.59,
+        "author": [
+            "Angelica Taylor",
+            "Jamie Lee"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 48,
+    "fields": {
+        "title": "Собачье сердце",
+        "year": 1924,
+        "pages": 903,
+        "isbn13": "978-0-04-998171-3",
+        "rating": 0.58,
+        "price": 44098.68,
+        "author": [
+            "Eric Sanchez",
+            "Anthony Greer"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 49,
+    "fields": {
+        "title": "Мастер и Маргарита",
+        "year": 1994,
+        "pages": 1343,
+        "isbn13": "978-0-86644-028-8",
+        "rating": 2.65,
+        "price": 33229.75,
+        "author": [
+            "Brandon Boyd"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 50,
+    "fields": {
+        "title": "Собачье сердце",
+        "year": 1905,
+        "pages": 1047,
+        "isbn13": "978-0-18-164305-0",
+        "rating": 3.98,
+        "price": 75081.86,
+        "author": [
+            "Peter Craig"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 51,
+    "fields": {
+        "title": "Двенадцать стульев",
+        "year": 1970,
+        "pages": 1841,
+        "isbn13": "978-1-993458-79-5",
+        "rating": 1.37,
+        "price": 50090.13,
+        "author": [
+            "Daniel Bridges",
+            "Amanda Thomas"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 52,
+    "fields": {
+        "title": "Отверженные",
+        "year": 1936,
+        "pages": 1116,
+        "isbn13": "978-1-00-632429-1",
+        "rating": 3.04,
+        "price": 72601.74,
+        "author": [
+            "Travis Taylor",
+            "Jason Donovan"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 53,
+    "fields": {
+        "title": "Война и мир",
+        "year": 1904,
+        "pages": 462,
+        "isbn13": "978-0-915109-18-0",
+        "rating": 1.32,
+        "price": 86158.45,
+        "author": [
+            "Heather Bryant",
+            "Jennifer Williams",
+            "David Porter"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 54,
+    "fields": {
+        "title": "Преступление и наказание",
+        "year": 1944,
+        "pages": 1734,
+        "isbn13": "978-0-7024-1220-2",
+        "rating": 1.71,
+        "price": 12527.98,
+        "author": [
+            "Sean Morales",
+            "Courtney Knight"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 55,
+    "fields": {
+        "title": "Отверженные",
+        "year": 1904,
+        "pages": 568,
+        "isbn13": "978-1-68698-873-8",
+        "rating": 3.55,
+        "price": 75763.44,
+        "author": [
+            "Catherine Warren",
+            "Madeline Jones"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 56,
+    "fields": {
+        "title": "Отверженные",
+        "year": 2015,
+        "pages": 36,
+        "isbn13": "978-0-02-402868-6",
+        "rating": 2.1,
+        "price": 74888.75,
+        "author": [
+            "Valerie Morgan"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 57,
+    "fields": {
+        "title": "Золотой теленок",
+        "year": 1956,
+        "pages": 950,
+        "isbn13": "978-0-9908744-6-1",
+        "rating": 4.81,
+        "price": 9465.4,
+        "author": [
+            "Mark Taylor"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 58,
+    "fields": {
+        "title": "Три товарища",
+        "year": 1931,
+        "pages": 789,
+        "isbn13": "978-0-9671443-8-2",
+        "rating": 4.53,
+        "price": 65613.9,
+        "author": [
+            "Aaron Reese",
+            "Danielle Brown"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 59,
+    "fields": {
+        "title": "Отверженные",
+        "year": 1928,
+        "pages": 1713,
+        "isbn13": "978-0-8384-5285-1",
+        "rating": 4.28,
+        "price": 62424.35,
+        "author": [
+            "Christine Wade",
+            "Laura Aguilar",
+            "Julie Franklin"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 60,
+    "fields": {
+        "title": "Война и мир",
+        "year": 1957,
+        "pages": 1709,
+        "isbn13": "978-0-644-07858-0",
+        "rating": 0.69,
+        "price": 72371.49,
+        "author": [
+            "Karen Dyer",
+            "Karen Simmons"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 61,
+    "fields": {
+        "title": "Война и мир",
+        "year": 2000,
+        "pages": 1844,
+        "isbn13": "978-0-929532-13-4",
+        "rating": 4.27,
+        "price": 27962.67,
+        "author": [
+            "Rodney Howard",
+            "Robert Goodwin",
+            "Stephanie Giles"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 62,
+    "fields": {
+        "title": "Золотой теленок",
+        "year": 2013,
+        "pages": 444,
+        "isbn13": "978-1-68871-801-2",
+        "rating": 4.27,
+        "price": 56236.21,
+        "author": [
+            "Robert Taylor"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 63,
+    "fields": {
+        "title": "Собачье сердце",
+        "year": 1905,
+        "pages": 640,
+        "isbn13": "978-1-68455-135-4",
+        "rating": 4.6,
+        "price": 64676.15,
+        "author": [
+            "Brian Ingram"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 64,
+    "fields": {
+        "title": "Золотой теленок",
+        "year": 1912,
+        "pages": 1027,
+        "isbn13": "978-1-05-835134-4",
+        "rating": 1.28,
+        "price": 25666.0,
+        "author": [
+            "Kyle Davis"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 65,
+    "fields": {
+        "title": "Отверженные",
+        "year": 2012,
+        "pages": 1618,
+        "isbn13": "978-1-59205-915-7",
+        "rating": 3.3,
+        "price": 203.04,
+        "author": [
+            "Michael Price"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 66,
+    "fields": {
+        "title": "Мастер и Маргарита",
+        "year": 1917,
+        "pages": 1488,
+        "isbn13": "978-0-14-423729-6",
+        "rating": 3.63,
+        "price": 98297.07,
+        "author": [
+            "Mary Garrison"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 67,
+    "fields": {
+        "title": "Золотой теленок",
+        "year": 1902,
+        "pages": 1662,
+        "isbn13": "978-1-08-952373-4",
+        "rating": 3.09,
+        "price": 86877.8,
+        "author": [
+            "James Walker",
+            "Joshua Crosby"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 68,
+    "fields": {
+        "title": "Двенадцать стульев",
+        "year": 1967,
+        "pages": 1602,
+        "isbn13": "978-1-972881-71-2",
+        "rating": 3.12,
+        "price": 54560.15,
+        "author": [
+            "Aaron Ramos",
+            "James Ross",
+            "Andrea Lee"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 69,
+    "fields": {
+        "title": "Мастер и Маргарита",
+        "year": 1946,
+        "pages": 1114,
+        "isbn13": "978-1-5080-6364-3",
+        "rating": 4.93,
+        "price": 47172.04,
+        "author": [
+            "Tracey Miller"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 70,
+    "fields": {
+        "title": "Преступление и наказание",
+        "year": 2002,
+        "pages": 791,
+        "isbn13": "978-1-989275-88-7",
+        "rating": 2.12,
+        "price": 72205.83,
+        "author": [
+            "Stephanie Ramos"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 71,
+    "fields": {
+        "title": "Граф Монте-Кристо",
+        "year": 1929,
+        "pages": 1848,
+        "isbn13": "978-1-72114-559-1",
+        "rating": 4.32,
+        "price": 68115.51,
+        "author": [
+            "Erin Reynolds"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 72,
+    "fields": {
+        "title": "Преступление и наказание",
+        "year": 1926,
+        "pages": 549,
+        "isbn13": "978-0-468-21641-0",
+        "rating": 3.26,
+        "price": 97573.58,
+        "author": [
+            "Jason Castro"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 73,
+    "fields": {
+        "title": "Мёртвые души",
+        "year": 1989,
+        "pages": 543,
+        "isbn13": "978-0-02-883482-5",
+        "rating": 1.72,
+        "price": 70390.35,
+        "author": [
+            "Tara Hall",
+            "Megan Smith",
+            "Annette Haas"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 74,
+    "fields": {
+        "title": "Отверженные",
+        "year": 1910,
+        "pages": 1468,
+        "isbn13": "978-1-143-16497-2",
+        "rating": 2.87,
+        "price": 39525.63,
+        "author": [
+            "Bailey Case",
+            "Kevin Vega",
+            "Joshua Johnson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 75,
+    "fields": {
+        "title": "Отверженные",
+        "year": 1948,
+        "pages": 439,
+        "isbn13": "978-0-17-011699-2",
+        "rating": 0.55,
+        "price": 90562.27,
+        "author": [
+            "Patricia Lewis",
+            "Shane Fisher",
+            "Jason Burke"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 76,
+    "fields": {
+        "title": "Двенадцать стульев",
+        "year": 1973,
+        "pages": 313,
+        "isbn13": "978-0-649-69265-1",
+        "rating": 4.9,
+        "price": 11717.43,
+        "author": [
+            "Charles Huang",
+            "Jose Simpson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 77,
+    "fields": {
+        "title": "Мастер и Маргарита",
+        "year": 2010,
+        "pages": 1955,
+        "isbn13": "978-1-69346-346-4",
+        "rating": 3.3,
+        "price": 18421.11,
+        "author": [
+            "Brandon Roach",
+            "Adam Davis"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 78,
+    "fields": {
+        "title": "Золотой теленок",
+        "year": 2008,
+        "pages": 1234,
+        "isbn13": "978-0-305-74416-8",
+        "rating": 1.98,
+        "price": 72915.62,
+        "author": [
+            "Zachary Sandoval",
+            "Jon Gallagher",
+            "Daniel Hughes"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 79,
+    "fields": {
+        "title": "Мастер и Маргарита",
+        "year": 1957,
+        "pages": 1610,
+        "isbn13": "978-1-77133-918-6",
+        "rating": 3.87,
+        "price": 71860.05,
+        "author": [
+            "Robert Smith",
+            "Nathan Gibson",
+            "Adam Miller"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 80,
+    "fields": {
+        "title": "Золотой теленок",
+        "year": 1929,
+        "pages": 1751,
+        "isbn13": "978-1-72573-210-0",
+        "rating": 1.33,
+        "price": 68679.51,
+        "author": [
+            "Anthony Aguilar",
+            "Donald Mora"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 81,
+    "fields": {
+        "title": "Три товарища",
+        "year": 1951,
+        "pages": 1152,
+        "isbn13": "978-0-7322-2729-6",
+        "rating": 1.78,
+        "price": 20675.66,
+        "author": [
+            "Jack Anderson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 82,
+    "fields": {
+        "title": "Собачье сердце",
+        "year": 1984,
+        "pages": 1124,
+        "isbn13": "978-1-4494-0511-3",
+        "rating": 3.22,
+        "price": 67080.69,
+        "author": [
+            "Audrey Cherry",
+            "Katherine Freeman",
+            "Jodi Mcdonald"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 83,
+    "fields": {
+        "title": "Золотой теленок",
+        "year": 2021,
+        "pages": 478,
+        "isbn13": "978-0-239-92397-4",
+        "rating": 4.15,
+        "price": 41267.88,
+        "author": [
+            "John Kennedy"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 84,
+    "fields": {
+        "title": "Граф Монте-Кристо",
+        "year": 1945,
+        "pages": 1185,
+        "isbn13": "978-1-4522-8836-9",
+        "rating": 0.24,
+        "price": 60884.87,
+        "author": [
+            "Stephanie Hoover",
+            "David Ramirez",
+            "Austin Mccarthy"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 85,
+    "fields": {
+        "title": "Отверженные",
+        "year": 1950,
+        "pages": 322,
+        "isbn13": "978-1-145-45830-7",
+        "rating": 0.76,
+        "price": 1304.0,
+        "author": [
+            "Laura Hernandez",
+            "Mark Roberson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 86,
+    "fields": {
+        "title": "Собачье сердце",
+        "year": 1998,
+        "pages": 370,
+        "isbn13": "978-1-120-63227-2",
+        "rating": 4.76,
+        "price": 85819.82,
+        "author": [
+            "Amber Bowman",
+            "Jennifer Hanson",
+            "Peggy Flowers"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 87,
+    "fields": {
+        "title": "Двенадцать стульев",
+        "year": 1961,
+        "pages": 1099,
+        "isbn13": "978-1-241-79327-2",
+        "rating": 4.14,
+        "price": 94061.92,
+        "author": [
+            "Nathaniel Pearson",
+            "Amanda Johnson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 88,
+    "fields": {
+        "title": "Мёртвые души",
+        "year": 1967,
+        "pages": 228,
+        "isbn13": "978-0-12-007732-8",
+        "rating": 0.49,
+        "price": 31571.97,
+        "author": [
+            "Curtis Nelson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 89,
+    "fields": {
+        "title": "Мёртвые души",
+        "year": 1957,
+        "pages": 1478,
+        "isbn13": "978-1-08-114147-9",
+        "rating": 2.58,
+        "price": 45756.41,
+        "author": [
+            "Julie Bennett",
+            "Austin Smith",
+            "Justin Waller"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 90,
+    "fields": {
+        "title": "Собачье сердце",
+        "year": 1909,
+        "pages": 1504,
+        "isbn13": "978-0-386-19938-3",
+        "rating": 0.13,
+        "price": 90344.42,
+        "author": [
+            "Kaylee Braun",
+            "Kathryn Turner",
+            "Richard Jones"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 91,
+    "fields": {
+        "title": "Двенадцать стульев",
+        "year": 1927,
+        "pages": 1349,
+        "isbn13": "978-0-344-68021-2",
+        "rating": 2.44,
+        "price": 28758.24,
+        "author": [
+            "Jennifer Estes",
+            "Mary Freeman",
+            "William Travis"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 92,
+    "fields": {
+        "title": "Война и мир",
+        "year": 2004,
+        "pages": 90,
+        "isbn13": "978-0-599-62436-8",
+        "rating": 1.46,
+        "price": 50142.3,
+        "author": [
+            "Ricky Martinez",
+            "Cameron Campbell",
+            "William Smith"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 93,
+    "fields": {
+        "title": "Мастер и Маргарита",
+        "year": 1922,
+        "pages": 493,
+        "isbn13": "978-1-66751-510-6",
+        "rating": 1.59,
+        "price": 27711.47,
+        "author": [
+            "James Powell",
+            "Melissa Morris",
+            "Willie Salas"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 94,
+    "fields": {
+        "title": "Золотой теленок",
+        "year": 1920,
+        "pages": 79,
+        "isbn13": "978-0-7595-7896-8",
+        "rating": 0.33,
+        "price": 52472.86,
+        "author": [
+            "Brittany Ewing"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 95,
+    "fields": {
+        "title": "Отверженные",
+        "year": 2014,
+        "pages": 455,
+        "isbn13": "978-0-7692-1738-3",
+        "rating": 4.3,
+        "price": 81726.04,
+        "author": [
+            "Kenneth Cruz II",
+            "Larry Mayer"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 96,
+    "fields": {
+        "title": "Двенадцать стульев",
+        "year": 1976,
+        "pages": 1836,
+        "isbn13": "978-1-9731-8017-3",
+        "rating": 1.17,
+        "price": 3699.88,
+        "author": [
+            "William Cox"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 97,
+    "fields": {
+        "title": "Граф Монте-Кристо",
+        "year": 1953,
+        "pages": 1775,
+        "isbn13": "978-1-72482-358-8",
+        "rating": 4.63,
+        "price": 90786.39,
+        "author": [
+            "David Pham"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 98,
+    "fields": {
+        "title": "Мастер и Маргарита",
+        "year": 1929,
+        "pages": 1444,
+        "isbn13": "978-1-4440-9104-5",
+        "rating": 0.72,
+        "price": 76144.71,
+        "author": [
+            "Ryan Evans",
+            "Stephen Wade"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 99,
+    "fields": {
+        "title": "Мёртвые души",
+        "year": 1928,
+        "pages": 1173,
+        "isbn13": "978-0-574-09824-5",
+        "rating": 3.45,
+        "price": 49243.9,
+        "author": [
+            "Clayton Silva",
+            "Joshua Stone",
+            "Terry Johnson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 100,
+    "fields": {
+        "title": "Двенадцать стульев",
+        "year": 1908,
+        "pages": 1550,
+        "isbn13": "978-1-959012-84-9",
+        "rating": 3.39,
+        "price": 28191.33,
+        "author": [
+            "Todd Morris",
+            "Alexandra Price",
+            "Michael Garcia"
+        ]
+    }
+}
